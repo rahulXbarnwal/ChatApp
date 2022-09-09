@@ -1,9 +1,9 @@
- #Installation of the ChatApp
+ # Installation of the ChatApp
  
  1) We can first simply download or clone the repository
  2) Open the IDE and install node modules in both the folders client and server by using the command "npm install" in the terminal
  
- #Running the ChatApp
+ # Running the ChatApp
  
  1) Now, Once node-modules folder is installed inside the Client and Server folder, You have to run the Server first
  2) So go inside the Server folder and run the command "nodemon ./index.js" in the terminal to start the server
@@ -11,11 +11,11 @@
  4) Go to the client folder and run the command "npm start" in the terminal
  5) This will start a development server at localhost:3000
 
-#Deploy
+# Deploy
 
 We can deploy our ChatApp on various platforms like Heroku or Netlify etc. which is again a very easy process for a developer
 
-#Using the ChatApp
+# Using the ChatApp
 
 1) Firstly SignUp using the Name, email and password
 2) After Signing up, you have to login using the same credentials which you used while registering
